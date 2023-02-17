@@ -4,10 +4,8 @@ channels:
 dependencies:
   - r
   - r-jsonlite
-  - r-splitstackshape
   - r-dplyr
   - r-stringr
-  - r-rlang
   - r-reshape2
   - r-tidyr
   - r-here
@@ -15,7 +13,5 @@ dependencies:
   - r-scales
   - r-tibble
   - r-data.table
-  - r-qdapregex
   - r-lubridate
-  - r-rjson
   - r-r.utils
